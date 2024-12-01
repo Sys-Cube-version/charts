@@ -2,13 +2,12 @@ apiVersion: v1
 entries:
   agent-looping:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-11-07T01:24:21.471123592+01:00"
-    description: A Helm chart for Kubernetes
-    digest: 955e35418b7b4f5e1e10469490c443c27fbf71c43327b8b7ca6dae7ab0db0c0c
+    appVersion: 1.0.0
+    created: "2024-12-01T01:28:46.087010223+01:00"
+    description: Helm chart to deploy the agent-looping application for sys-cube
+    digest: 25c81c0865c9a1cca64f6e832f4a6da6e7fa81981f8647839c1cded55700b9fd
     name: agent-looping
-    type: application
     urls:
-    - https://sys-cube-version.github.io/charts/agent-looping-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-11-07T01:24:21.470808632+01:00"
+    - https://sys-cube-version.github.io/charts/agent-looping-1.0.0.tgz/agent-looping-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-12-01T01:28:46.084992801+01:00"
