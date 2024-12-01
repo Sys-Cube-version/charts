@@ -8,6 +8,6 @@ entries:
     digest: 25c81c0865c9a1cca64f6e832f4a6da6e7fa81981f8647839c1cded55700b9fd
     name: agent-looping
     urls:
-    - https://sys-cube-version.github.io/charts/agent-looping-1.0.0.tgz/agent-looping-1.0.0.tgz
+    - https://sys-cube-version.github.io/charts/agent-looping-1.0.0.tgz
     version: 1.0.0
 generated: "2024-12-01T01:28:46.084992801+01:00"
